@@ -1,5 +1,2 @@
 resources:
 - ../../base
-replicas:
-- name: gitops-demo
-  count: 3
